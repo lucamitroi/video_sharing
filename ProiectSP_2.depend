@@ -1,0 +1,156 @@
+# depslib dependency file v1.0
+1621513207 source:d:\tools\codeblocks\projects\proiectsp_2\proiectsp_2\src\videos.cpp
+	"videos.h"
+	<string.h>
+	<iostream>
+
+1621513588 d:\tools\codeblocks\projects\proiectsp_2\proiectsp_2\include\videos.h
+	<string.h>
+	<iostream>
+
+1621513103 source:d:\tools\codeblocks\projects\proiectsp_2\proiectsp_2\main.cpp
+	<iostream>
+	"videos.h"
+
+1621519325 source:c:\users\nahoi\desktop\proiectsp_2\proiectsp_2\src\videos.cpp
+	"videos.h"
+	<string.h>
+	<iostream>
+
+1621519315 c:\users\nahoi\desktop\proiectsp_2\proiectsp_2\include\videos.h
+	<string.h>
+	<iostream>
+
+1621516223 source:c:\users\nahoi\desktop\proiectsp_2\proiectsp_2\main.cpp
+	<iostream>
+	<conio.h>
+	"videos.h"
+
+1621598084 source:c:\users\lmxyz\desktop\proiectsp_2\proiectsp_2\src\videos.cpp
+	"videos.h"
+	<string.h>
+	<iostream>
+
+1621598312 c:\users\lmxyz\desktop\proiectsp_2\proiectsp_2\include\videos.h
+	<string.h>
+	<iostream>
+
+1621600207 source:c:\users\lmxyz\desktop\proiectsp_2\proiectsp_2\main.cpp
+	<iostream>
+	<conio.h>
+	"videos.h"
+	<fstream>
+
+1621674172 source:c:\users\lucam\desktop\proiectsp_2\proiectsp_2\src\videos.cpp
+	"videos.h"
+	<string.h>
+	<iostream>
+
+1621674646 c:\users\lucam\desktop\proiectsp_2\proiectsp_2\include\videos.h
+	<string.h>
+	<iostream>
+
+1621675349 source:c:\users\lucam\desktop\proiectsp_2\proiectsp_2\main.cpp
+	<iostream>
+	<conio.h>
+	"videos.h"
+	<fstream>
+
+1621639602 source:c:\users\nahoi\desktop\proiectsp_2\proiectsp_2\proiectsp_2\src\videos.cpp
+	"videos.h"
+	<string.h>
+	<iostream>
+
+1621639602 c:\users\nahoi\desktop\proiectsp_2\proiectsp_2\proiectsp_2\include\videos.h
+	<string.h>
+	<iostream>
+
+1621800499 source:c:\users\nahoi\desktop\proiectsp_2\proiectsp_2\proiectsp_2\main.cpp
+	<iostream>
+	<conio.h>
+	"videos.h"
+	<fstream>
+
+1621850286 source:c:\users\lmxyz\desktop\proiectsp_2\proiectsp_2\proiectsp_2\main.cpp
+	<iostream>
+	<conio.h>
+	"videos.h"
+	<fstream>
+
+1621848826 c:\users\lmxyz\desktop\proiectsp_2\proiectsp_2\proiectsp_2\include\videos.h
+	<string.h>
+	<iostream>
+
+1621639602 source:c:\users\lmxyz\desktop\proiectsp_2\proiectsp_2\proiectsp_2\src\videos.cpp
+	"videos.h"
+	<string.h>
+	<iostream>
+
+1622981968 source:c:\users\nahoi\desktop\proiectsp_2\main.cpp
+	<iostream>
+	<conio.h>
+	"videos.h"
+	<fstream>
+	<vector>
+	<ctime>
+
+1622979315 c:\users\nahoi\desktop\proiectsp_2\include\videos.h
+	<string.h>
+	<iostream>
+
+1622981389 source:c:\users\nahoi\desktop\proiectsp_2\src\videos.cpp
+	"videos.h"
+	<string.h>
+	<iostream>
+
+1622985122 source:c:\users\lucam\desktop\proiectsp_2\src\videos.cpp
+	"videos.h"
+	<string.h>
+	<iostream>
+
+1622979315 c:\users\lucam\desktop\proiectsp_2\include\videos.h
+	<string.h>
+	<iostream>
+
+1622988528 source:c:\users\lucam\desktop\proiectsp_2\main.cpp
+	<iostream>
+	<conio.h>
+	"videos.h"
+	<fstream>
+	<vector>
+	<ctime>
+
+1622988528 source:c:\users\lucam\desktop\proiectsp - final\main.cpp
+	<iostream>
+	<conio.h>
+	"videos.h"
+	<fstream>
+	<vector>
+	<ctime>
+
+1622979315 c:\users\lucam\desktop\proiectsp - final\include\videos.h
+	<string.h>
+	<iostream>
+
+1622985122 source:c:\users\lucam\desktop\proiectsp - final\src\videos.cpp
+	"videos.h"
+	<string.h>
+	<iostream>
+
+1622984928 source:c:\users\lucam\desktop\proiectsp - ioan nahoi, luca mitroi\proiectsp - final\main.cpp
+	<iostream>
+	<conio.h>
+	"videos.h"
+	<fstream>
+	<vector>
+	<ctime>
+
+1622975715 c:\users\lucam\desktop\proiectsp - ioan nahoi, luca mitroi\proiectsp - final\include\videos.h
+	<string.h>
+	<iostream>
+
+1622981522 source:c:\users\lucam\desktop\proiectsp - ioan nahoi, luca mitroi\proiectsp - final\src\videos.cpp
+	"videos.h"
+	<string.h>
+	<iostream>
+
